@@ -1,7 +1,7 @@
 name: SimplifiedByAnnie
 favicon: null
 layout_spectrum: 0.49556
-typography_spectrum: 0.05688999709673226
+typography_spectrum: 0.28687
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
+    - '#28394b'
+    - '#090000'
+    - '#bcbb88'
+    - '#5381a3'
+    - '#fef677'
   brandStrength: 0.8125
   lightness: 0
   saturation: 0.1875
