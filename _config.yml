@@ -1,6 +1,6 @@
 name: SimplifiedByAnnie
 favicon: null
-layout_spectrum: 0.8025987106375396
+layout_spectrum: 0.49556
 typography_spectrum: 0.05688999709673226
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
-  brandStrength: 0.8531474801711738
-  lightness: 0.024471446871757507
-  saturation: 0.24561112257651985
-  rhythmicContrast: 0.27333865663968027
+  brandStrength: 0.8125
+  lightness: 0
+  saturation: 0.1875
+  rhythmicContrast: 0.25
 purpose: []
